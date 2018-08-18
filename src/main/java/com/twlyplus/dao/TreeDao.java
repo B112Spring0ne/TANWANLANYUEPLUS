@@ -4,7 +4,7 @@ package com.twlyplus.dao;
 import java.util.List;
 import java.util.Map;
 
-import com.twlyplus.entity.Tree;
+import com.twlyplus.domain.Tree;
 
 
 

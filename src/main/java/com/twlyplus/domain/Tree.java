@@ -1,4 +1,4 @@
-package com.twlyplus.entity;
+package com.twlyplus.domain;
 
 import java.util.List;
 
@@ -89,16 +89,6 @@ public class Tree {
 	}
 	public void setPermissions(String permissions) {
 		this.permissions = permissions;
-	}
-	
-	
-	 
-	
-
-	
-	
-	
-	
-	
-	
+	}	
 }
+

@@ -5,7 +5,7 @@ import java.util.Map;
 import org.springframework.stereotype.Service;
 
 import com.twlyplus.dao.TreeDao;
-import com.twlyplus.entity.Tree;
+import com.twlyplus.domain.Tree;
 import com.twlyplus.service.TreeService;
 
 import javax.annotation.Resource;
