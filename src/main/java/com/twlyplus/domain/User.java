@@ -3,7 +3,7 @@ package com.twlyplus.domain;
 import java.util.Date;
 
 /**
- * 
+ * 定义用户
  * 
  */
 public class User {

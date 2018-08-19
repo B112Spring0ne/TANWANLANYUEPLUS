@@ -5,6 +5,6 @@ PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 <configuration>
 	<!-- 别名 -->
 	<typeAliases>
-		<package name="com.twlyplus.entity"/>
+		<package name="com.twlyplus.domain"/>
 	</typeAliases>
 </configuration>
